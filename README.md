@@ -2,7 +2,7 @@
 CEB IT BRANCH
 # USER LOGIN
 
-![icon](_media/bank.PNG)
+![icon](docs/_media/bank.PNG)
 
 
 
