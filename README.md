@@ -1,6 +1,6 @@
 # hello I am sewwandi tennakoon
 CEB IT BRANCH
-[icon](_media/Docs/My Documents/bank.PNG)
+[icon](_media/Docs/media/bank.PNG)
 
 
 
